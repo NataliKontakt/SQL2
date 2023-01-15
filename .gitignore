@@ -8,10 +8,9 @@ build/
 .gradlew.bat
 .gradlew
 gradle/
-gradlew
-gradlew.bat
+
 schema/
-settings.gradle
+
 
 
 ### IntelliJ IDEA ###
